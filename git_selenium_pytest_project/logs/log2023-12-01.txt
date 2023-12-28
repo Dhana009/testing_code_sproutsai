@@ -1,0 +1,276 @@
+2023-12-01 12:03:56,202 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 12:03:56,407 - basepage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : rahul
+2023-12-01 12:03:56,509 - basepage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 98789798798
+2023-12-01 12:03:56,600 - basepage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : dkjflks@gmail.com
+2023-12-01 12:03:56,653 - basepage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-12-01 12:03:56,729 - basepage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : tpt
+2023-12-01 12:03:56,811 - basepage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : waker
+2023-12-01 12:03:56,906 - basepage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : Pojojo#123
+2023-12-01 12:03:56,995 - basepage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-12-01 12:03:56,996 - test_signup.py:[18] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 12:29:23,617 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 12:29:23,821 - basepage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : rahul
+2023-12-01 12:29:23,929 - basepage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 98789798798
+2023-12-01 12:29:24,033 - basepage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : dkjflks@gmail.com
+2023-12-01 12:29:24,098 - basepage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-12-01 12:29:24,174 - basepage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : tpt
+2023-12-01 12:29:24,252 - basepage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : waker
+2023-12-01 12:29:24,348 - basepage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : Pojojo#123
+2023-12-01 12:29:24,443 - basepage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-12-01 12:29:24,443 - test_signup.py:[18] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 13:03:30,879 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 13:03:31,049 - basepage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : rahul
+2023-12-01 13:03:31,199 - basepage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 98789798798
+2023-12-01 13:03:31,352 - basepage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : dkjflks@gmail.com
+2023-12-01 13:03:31,421 - basepage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-12-01 13:03:31,503 - basepage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : tpt
+2023-12-01 13:03:31,579 - basepage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : waker
+2023-12-01 13:03:31,675 - basepage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : Pojojo#123
+2023-12-01 13:03:31,768 - basepage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-12-01 13:03:31,768 - test_signup.py:[18] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 13:04:17,341 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 13:04:17,529 - basepage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : rahul
+2023-12-01 13:04:17,628 - basepage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 98789798798
+2023-12-01 13:04:17,723 - basepage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : dkjflks@gmail.com
+2023-12-01 13:04:17,775 - basepage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-12-01 13:04:17,854 - basepage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : tpt
+2023-12-01 13:04:17,940 - basepage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : waker
+2023-12-01 13:04:18,042 - basepage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : Pojojo#123
+2023-12-01 13:04:18,138 - basepage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-12-01 13:04:18,138 - test_signup.py:[18] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 13:41:03,280 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 13:41:03,479 - basepage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : rahul
+2023-12-01 13:41:03,584 - basepage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 98789798798
+2023-12-01 13:41:03,692 - basepage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : dkjflks@gmail.com
+2023-12-01 13:41:03,746 - basepage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-12-01 13:41:03,818 - basepage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : tpt
+2023-12-01 13:41:03,898 - basepage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : waker
+2023-12-01 13:41:04,176 - basepage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : Pojojo#123
+2023-12-01 13:41:04,274 - basepage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-12-01 13:41:04,274 - test_signup.py:[18] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 13:41:50,633 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 13:41:50,850 - basepage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : rahul
+2023-12-01 13:41:50,959 - basepage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 98789798798
+2023-12-01 13:41:51,062 - basepage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : dkjflks@gmail.com
+2023-12-01 13:41:51,127 - basepage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-12-01 13:41:51,208 - basepage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : tpt
+2023-12-01 13:41:51,287 - basepage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : waker
+2023-12-01 13:41:51,390 - basepage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : Pojojo#123
+2023-12-01 13:41:51,485 - basepage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-12-01 13:41:51,485 - test_signup.py:[18] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 13:45:38,175 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 13:48:19,243 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 13:50:16,414 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 13:50:16,717 - basepage.py:[33] - [INFO] - Typing in an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 13:50:16,816 - basepage.py:[33] - [INFO] - Typing in an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 13:50:16,897 - basepage.py:[23] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 13:50:16,955 - basepage.py:[23] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 13:50:16,955 - test_signup.py:[18] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 13:55:01,319 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 13:55:01,594 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 13:55:01,759 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 13:55:01,834 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 13:55:01,916 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 13:55:01,917 - test_signup.py:[18] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 13:55:48,357 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 13:55:48,680 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 13:55:48,792 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 13:55:48,896 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 13:55:48,970 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 13:55:48,970 - test_signup.py:[18] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:00:32,141 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:00:32,431 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:00:32,593 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 14:00:32,697 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:00:32,772 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:00:32,772 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:02:28,370 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:02:28,708 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:02:28,811 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 14:02:28,888 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:02:28,973 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:02:28,973 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:02:57,875 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:02:58,151 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:02:58,274 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 14:02:58,430 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:02:58,502 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:02:58,502 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:03:41,608 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:03:41,844 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:03:42,012 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@12
+2023-12-01 14:03:42,091 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:03:42,179 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:03:42,180 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:07:59,172 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:07:59,466 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:07:59,576 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@12
+2023-12-01 14:07:59,671 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:07:59,754 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:07:59,754 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:08:05,469 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:08:05,632 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:08:16,009 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:08:16,102 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : '
+2023-12-01 14:09:22,887 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:09:23,164 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:09:23,323 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@12
+2023-12-01 14:09:23,424 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:09:23,500 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:09:23,500 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:09:29,206 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:09:29,357 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:09:39,626 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:09:39,722 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : '
+2023-12-01 14:10:41,220 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:10:41,486 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:10:41,593 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@12
+2023-12-01 14:10:41,668 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:10:41,756 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:10:45,323 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:10:51,071 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:10:51,237 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:10:51,334 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 14:10:51,398 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:10:51,459 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:10:54,872 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:10:55,431 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:11:58,236 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:11:58,514 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:11:58,666 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@12
+2023-12-01 14:11:58,764 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:11:58,845 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:12:02,433 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:12:08,192 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:12:08,355 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:12:08,456 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 14:12:08,523 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:12:08,585 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:12:11,976 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:12:12,528 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:24:59,785 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:25:00,017 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:25:00,221 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@12
+2023-12-01 14:25:00,298 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:25:00,381 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:25:06,299 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:25:06,835 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:25:07,037 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:25:07,167 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 14:25:07,233 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:25:07,321 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:25:08,998 - basepage.py:[28] - [INFO] - Clicking on an element: logout_button_menu_XPATH
+2023-12-01 14:25:09,148 - basepage.py:[28] - [INFO] - Clicking on an element: logout_button_XPATH
+2023-12-01 14:25:11,149 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:25:11,390 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:25:11,489 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : '
+2023-12-01 14:25:11,580 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : '
+2023-12-01 14:25:11,650 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:25:11,725 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:25:17,530 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:25:47,106 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:25:47,379 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:25:47,540 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@12
+2023-12-01 14:25:47,641 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:25:47,720 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:25:53,608 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:25:54,139 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:25:54,305 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:25:54,403 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 14:25:54,467 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:25:54,531 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:25:56,205 - basepage.py:[28] - [INFO] - Clicking on an element: logout_button_menu_XPATH
+2023-12-01 14:25:56,335 - basepage.py:[28] - [INFO] - Clicking on an element: logout_button_XPATH
+2023-12-01 14:25:58,336 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:25:58,571 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:25:58,672 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : '
+2023-12-01 14:25:58,771 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : '
+2023-12-01 14:25:58,844 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:25:58,925 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:26:04,552 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:27:23,263 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:27:23,509 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:27:23,679 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@12
+2023-12-01 14:27:23,754 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:27:23,830 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:27:34,477 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:27:34,992 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:27:35,151 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:27:35,273 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 14:27:35,384 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:27:35,480 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:27:37,280 - basepage.py:[28] - [INFO] - Clicking on an element: logout_button_menu_XPATH
+2023-12-01 14:27:37,418 - basepage.py:[28] - [INFO] - Clicking on an element: logout_button_XPATH
+2023-12-01 14:27:39,419 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:27:39,637 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:27:39,746 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : '
+2023-12-01 14:27:39,848 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : '
+2023-12-01 14:27:39,942 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:27:40,049 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:27:50,909 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:28:43,790 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:28:44,098 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:28:44,257 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 14:28:44,349 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:28:44,426 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:28:46,937 - basepage.py:[28] - [INFO] - Clicking on an element: logout_button_menu_XPATH
+2023-12-01 14:28:47,076 - basepage.py:[28] - [INFO] - Clicking on an element: logout_button_XPATH
+2023-12-01 14:28:49,077 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:28:49,522 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:28:49,696 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:28:49,793 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : 
+2023-12-01 14:28:49,891 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:28:49,984 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:29:01,006 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:29:01,305 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:29:01,470 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : &apos;
+2023-12-01 14:29:01,632 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : &apos;
+2023-12-01 14:29:01,714 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:29:01,790 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:29:13,021 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:33:28,728 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:33:28,971 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:33:29,147 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 14:33:29,225 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:33:29,302 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:33:35,481 - basepage.py:[28] - [INFO] - Clicking on an element: logout_button_menu_XPATH
+2023-12-01 14:33:35,619 - basepage.py:[28] - [INFO] - Clicking on an element: logout_button_XPATH
+2023-12-01 14:33:37,620 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:33:38,064 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:33:38,241 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:33:38,314 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : 
+2023-12-01 14:33:38,376 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:33:38,444 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:33:44,889 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:33:45,159 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:33:45,286 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : &apos;
+2023-12-01 14:33:45,393 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : &apos;
+2023-12-01 14:33:45,471 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:33:45,582 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:33:52,140 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:36:26,725 - test_signup.py:[20] - [INFO] - Test Do Sign up started
+2023-12-01 14:36:27,069 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:36:27,177 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 14:36:27,252 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:36:27,329 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:36:27,329 - test_signup.py:[23] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:36:34,260 - test_signup.py:[20] - [INFO] - Test Do Sign up started
+2023-12-01 14:36:45,002 - test_signup.py:[20] - [INFO] - Test Do Sign up started
+2023-12-01 14:44:40,333 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:44:40,614 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:44:40,775 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : Demo@123
+2023-12-01 14:44:40,854 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:44:40,936 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:44:47,096 - basepage.py:[28] - [INFO] - Clicking on an element: logout_button_menu_XPATH
+2023-12-01 14:44:47,211 - basepage.py:[28] - [INFO] - Clicking on an element: logout_button_XPATH
+2023-12-01 14:44:49,214 - test_signup.py:[21] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 14:44:49,223 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:44:49,406 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : pankaj+natera@sproutsai.com
+2023-12-01 14:44:49,477 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : 
+2023-12-01 14:44:49,545 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:44:49,615 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH
+2023-12-01 14:44:56,711 - test_signup.py:[18] - [INFO] - Test Do Sign up started
+2023-12-01 14:44:56,818 - basepage.py:[43] - [INFO] - Clicking on an element: enter_email_XPATH value entered as : &apos;
+2023-12-01 14:44:56,916 - basepage.py:[43] - [INFO] - Clicking on an element: enter_password_XPATH value entered as : &apos;
+2023-12-01 14:44:56,984 - basepage.py:[28] - [INFO] - Clicking on an element: show_password_XPATH
+2023-12-01 14:44:57,053 - basepage.py:[28] - [INFO] - Clicking on an element: sign_in_button_XPATH

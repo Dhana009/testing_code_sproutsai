@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+    }
+
+    h1 {
+      text-align: center;
+      margin-top: 20px;
+      color: #333;
+    }
+
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      padding: 16px;
+    }
+
+    .gallery-item {
+      overflow: hidden;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease-in-out;
+      cursor: pointer;
+    }
+
+    .gallery-item img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+
+    .gallery-item:hover {
+      transform: scale(1.1);
+    }
+
+    .lightbox {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.9);
+      justify-content: center;
+      align-items: center;
+    }
+
+.lightbox img {
+  max-width: 100%;
+  max-height: 100%;
+  
+  border-radius: 8px;
+    }
+
+    .lightbox button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 12px 24px; /* Adjust the padding as needed */
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.lightbox button:hover {
+  background-color: #555;
+}
+    
+@media only screen and (max-width: 1000px) {
+   .lightbox img {
+      width: 100%;
+      height: 100%;
+      border-radius: 8px;
+    }
+}
+
+
+  </style>
+</head>
+<body>
+
+<h1>Simple Responsive Image Gallery</h1>
+
+<div class="gallery">
+  <div class="gallery-item" onclick="openLightbox(0)">
+    <img src="https://live.staticflickr.com/65535/53333568165_1950be1689.jpg" alt="Image 1">
+  </div>
+  <div class="gallery-item" onclick="openLightbox(1)">
+    <img src="https://live.staticflickr.com/65535/53332231082_c1f7a6612e_w.jpg" alt="Image 2">
+  </div>
+  <div class="gallery-item" onclick="openLightbox(2)">
+    <img src="https://live.staticflickr.com/65535/53333109456_c43ff41318_w.jpg" alt="Image 3">
+  </div>
+  <div class="gallery-item" onclick="openLightbox(3)">
+    <img src="https://live.staticflickr.com/65535/53333451014_f4341f0250_w.jpg" alt="Image 4">
+  </div>
+  <div class="gallery-item" onclick="openLightbox(4)">
+    <img src="https://live.staticflickr.com/65535/53332231152_b73ed0faf5_w.jpg" alt="Image 5">
+  </div>
+  <div class="gallery-item" onclick="openLightbox(5)">
+    <img src="https://live.staticflickr.com/65535/53333336393_63323af821_w.jpg" alt="Image 6">
+  </div>
+  <!-- Add more gallery items as needed -->
+</div>
+
+<div class="lightbox" onclick="closeLightbox()">
+  <button id="prevBtn" onclick="prevImage(event)">❮ Prev</button>
+
+  <img id="lightbox-img" src="" alt="Full-size Photo">
+  <button id="nextBtn" onclick="nextImage(event)">Next ❯</button>
+
+</div>
+
+<script>
+  let currentImageIndex = 0;
+  const images = [
+    'https://live.staticflickr.com/65535/53333568165_1950be1689.jpg',
+    'https://live.staticflickr.com/65535/53332231082_c1f7a6612e_w.jpg',
+    'https://live.staticflickr.com/65535/53333109456_c43ff41318_w.jpg',
+    'https://live.staticflickr.com/65535/53333451014_f4341f0250_w.jpg',
+    'https://live.staticflickr.com/65535/53332231152_b73ed0faf5_w.jpg',
+    'https://live.staticflickr.com/65535/53333336393_63323af821_w.jpg',
+    'https://live.staticflickr.com/65535/53333451079_f8157c704a_w.jpg',
+    'https://live.staticflickr.com/65535/53333451059_92d006f649_w.jpg',
+    'https://live.staticflickr.com/65535/53333109511_55706a3fe9_w.jpg',
+    'https://live.staticflickr.com/65535/53332231167_a4b89c1d88_w.jpg',
+    'https://live.staticflickr.com/65535/53333336433_e847aa0955_w.jpg',
+    'https://live.staticflickr.com/65535/53332231207_f11c160a69.jpg',
+    'https://live.staticflickr.com/65535/53333109636_9e3abc4e21_z.jpg',
+    'https://live.staticflickr.com/65535/53332231317_d71e024719_z.jpg',
+    'https://live.staticflickr.com/65535/53333568395_be5846dee9_z.jpg',
+    'https://live.staticflickr.com/65535/53333336593_2d3e8a2e6b_z.jpg',
+    'https://live.staticflickr.com/65535/53332231417_a150f5a1cf_z.jpg',
+    'https://live.staticflickr.com/65535/53332231427_1373c414f2_c.jpg',
+    'https://live.staticflickr.com/65535/53333335878_12d0bd5e09.jpg',
+    // Add more image URLs as needed
+  ];
+
+  function openLightbox(index) {
+    currentImageIndex = index;
+    updateLightboxImage();
+    const lightbox = document.querySelector('.lightbox');
+    lightbox.style.display = 'flex';
+    setLightboxZIndex();
+  }
+
+  function closeLightbox() {
+    document.querySelector('.lightbox').style.display = 'none';
+  }
+
+  function setLightboxZIndex() {
+    const allElements = document.querySelectorAll('*');
+    let maxZIndex = 0;
+
+    allElements.forEach(element => {
+      const zIndex = parseFloat(getComputedStyle(element).zIndex);
+      if (!isNaN(zIndex) && zIndex > maxZIndex) {
+        maxZIndex = zIndex;
+      }
+    });
+
+    const lightbox = document.querySelector('.lightbox');
+    lightbox.style.zIndex = maxZIndex + 1;
+  }
+
+  function updateLightboxImage() {
+    document.getElementById('lightbox-img').src = images[currentImageIndex];
+  }
+
+function prevImage(event) {
+  event.stopPropagation();
+  currentImageIndex = (currentImageIndex - 1 + images.length) % images.length;
+  updateLightboxImage();
+}
+
+function nextImage(event) {
+  event.stopPropagation();
+  currentImageIndex = (currentImageIndex + 1) % images.length;
+  updateLightboxImage();
+}
+
+</script>
+
+</body>
+</html>

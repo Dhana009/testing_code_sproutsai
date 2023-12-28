@@ -1,0 +1,30 @@
+2023-12-01 12:03:56,202 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 12:03:56,407 - basepage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : rahul
+2023-12-01 12:03:56,509 - basepage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 98789798798
+2023-12-01 12:03:56,600 - basepage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : dkjflks@gmail.com
+2023-12-01 12:03:56,653 - basepage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-12-01 12:03:56,729 - basepage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : tpt
+2023-12-01 12:03:56,811 - basepage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : waker
+2023-12-01 12:03:56,906 - basepage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : Pojojo#123
+2023-12-01 12:03:56,995 - basepage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-12-01 12:03:56,996 - test_signup.py:[18] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 12:29:23,617 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 12:29:23,821 - basepage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : rahul
+2023-12-01 12:29:23,929 - basepage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 98789798798
+2023-12-01 12:29:24,033 - basepage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : dkjflks@gmail.com
+2023-12-01 12:29:24,098 - basepage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-12-01 12:29:24,174 - basepage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : tpt
+2023-12-01 12:29:24,252 - basepage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : waker
+2023-12-01 12:29:24,348 - basepage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : Pojojo#123
+2023-12-01 12:29:24,443 - basepage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-12-01 12:29:24,443 - test_signup.py:[18] - [INFO] - Test Do Sign up successfully executed
+2023-12-01 12:39:42,740 - test_signup.py:[15] - [INFO] - Test Do Sign up started
+2023-12-01 12:39:43,156 - basepage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : rahul
+2023-12-01 12:39:43,274 - basepage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 98789798798
+2023-12-01 12:39:43,365 - basepage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : dkjflks@gmail.com
+2023-12-01 12:39:43,416 - basepage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-12-01 12:39:43,488 - basepage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : tpt
+2023-12-01 12:39:43,568 - basepage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : waker
+2023-12-01 12:39:43,663 - basepage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : Pojojo#123
+2023-12-01 12:39:43,767 - basepage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-12-01 12:39:43,767 - test_signup.py:[18] - [INFO] - Test Do Sign up successfully executed

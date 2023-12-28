@@ -1,0 +1,4 @@
+2023-12-01 13:34:10,856 - base_page.py:[35] - [INFO] - Clicking on an element: enter2023-12-01 13:34:10,860 - test_login_page.py:[29] - [INFO] - Test login successfully executed
+35] - [INFO] - Clicking on an element: enter_password value entered as : Demo@123
+2023-12-01 13:34:10,858 - base_page.py:[24] - [INFO] - Clicking on an element: show_password
+2023-12-01 13:34:10,858 - base_page.py:[24] - [INFO] - Clicking on an element: sign_in_button
